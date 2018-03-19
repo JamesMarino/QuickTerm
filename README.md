@@ -2,6 +2,10 @@
 
 ## Quickly open the current Finder directory in Terminal
 
+### Download
+
+Download QuickTerm [here](https://github.com/JamesMarino/QuickTerm/releases/download/1.0/QuickTerm.app.zip)
+
 ### To Deploy
 
 1. Open Automator
