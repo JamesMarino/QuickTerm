@@ -2,9 +2,11 @@
 
 ## Quickly open the current Finder directory in Terminal
 
+![alt text](https://i.imgur.com/pImchMS.png "QuickTerm Demo")
+
 ### Download
 
-Download QuickTerm [here](https://github.com/JamesMarino/QuickTerm/releases/download/1.0/QuickTerm.app.zip)
+Download QuickTerm [here](https://github.com/JamesMarino/QuickTerm/releases/download/1.0/QuickTerm.app.zip) and drag the App while holding `command` into the Finder Bar
 
 ### To Deploy
 
@@ -13,5 +15,4 @@ Download QuickTerm [here](https://github.com/JamesMarino/QuickTerm/releases/down
 3. Utilities -> Run AppleScript
 4. Copy `QuickTerm.applescript` into scripting pane
 5. File -> Export
-
-Drag the App while holding `command` into the Finder Bar
+6. Drag the App while holding `command` into the Finder Bar
